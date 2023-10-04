@@ -1,3 +1,1 @@
-https://m.twitch.tv
-m.twitch.tv
-https://www.m.twitch.tv
+||m.twitch.tv^
